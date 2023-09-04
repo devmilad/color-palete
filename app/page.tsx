@@ -1,6 +1,7 @@
 "use client"
 import DisplayImage from "@/components/DisplayImage";
 import { ChangeEvent, useState } from "react";
+//@ts-ignore
 import ColorThief from 'colorthief';
 
 export default function Home() {
