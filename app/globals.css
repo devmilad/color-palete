@@ -24,4 +24,11 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    font-family: "Poppins";
+    font-size: 1.2rem;
+}
+.text__gradient{
+  background: linear-gradient(110.42deg, #cf57a3 29.2%, #27ae60 63.56%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
