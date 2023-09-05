@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [Visit website](https://color-palete.vercel.app/)
 
-## Getting Started
+![Screenshot](https://cdn.sanity.io/images/4aqurx4h/production/3aa256525db8d66cc1ba908c32f63a308a9cdf9c-1280x720.png)
 
-First, run the development server:
+# 🎨 Welcome to ColorWizard! 🌈
+📸 With the help of the ColorThief library, we've crafted a powerful software that simplifies your color exploration process. Just upload any photo 🖼️, and we'll extract the six dominant color spectrums used in the image. 🌟
+🔗 Feel free to copy any color hex code to bring your creative visions to life! 🎨✨
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+##How to Use:
+*  📤 Upload your photo.
+*  🎨 Get the six dominant color hex codes.
+*  🎉 Let your creativity flow!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Technology in use
+* Reactjs NextJs and Tailwindcss for design
+* Typescript 
+* [colorthief componnet](https://lokeshdhakar.com/projects/color-thief/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Getting Started with Create React App
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+In the project directory, you can run:
 
-## Learn More
+### `npm start`
 
-To learn more about Next.js, take a look at the following resources:
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The page will reload when you make changes.\
