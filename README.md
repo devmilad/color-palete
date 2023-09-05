@@ -3,10 +3,10 @@
 ![Screenshot](https://cdn.sanity.io/images/4aqurx4h/production/3aa256525db8d66cc1ba908c32f63a308a9cdf9c-1280x720.png)
 
 # 🎨 Welcome to ColorWizard! 🌈
-📸 With the help of the ColorThief library, we've crafted a powerful software that simplifies your color exploration process. Just upload any photo 🖼️, and we'll extract the six dominant color spectrums used in the image. 🌟
+📸 With the help of the [ColorThief library](https://lokeshdhakar.com/projects/color-thief/), we've crafted a powerful software that simplifies your color exploration process. Just upload any photo 🖼️, and we'll extract the six dominant color spectrums used in the image. 🌟
 🔗 Feel free to copy any color hex code to bring your creative visions to life! 🎨✨
 
-##How to Use:
+## How to Use:
 *  📤 Upload your photo.
 *  🎨 Get the six dominant color hex codes.
 *  🎉 Let your creativity flow!
